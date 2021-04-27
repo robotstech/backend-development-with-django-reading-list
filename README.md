@@ -2,7 +2,8 @@
 A list of articles and resources that can help Django developers
 
 ### Set up Django
-1. https://testdriven.io/blog/production-django-deployments-on-heroku/
+1. [Production Django Deployments on Heroku](https://testdriven.io/blog/production-django-deployments-on-heroku/)
+2. [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/)
 
 ### Authentication and Authorization
 1. [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
