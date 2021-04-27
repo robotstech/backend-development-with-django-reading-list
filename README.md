@@ -1,5 +1,8 @@
-# backend-developement-with-django-reading-list
+# backend-development-with-django-reading-list
 A list of articles and resources that can help Django developers
+
+### Set up Django
+1. https://testdriven.io/blog/production-django-deployments-on-heroku/
 
 ### Authentication and Authorization
 1. [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
