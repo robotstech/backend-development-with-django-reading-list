@@ -5,6 +5,9 @@ A list of articles and resources that can help Django developers
 1. [Production Django Deployments on Heroku](https://testdriven.io/blog/production-django-deployments-on-heroku/)
 1. [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/)
 
+### Containerization
+1. [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+
 ### Authentication and Authorization
 1. [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 1. [Remove Authentication, Token, Python Social Auth from Django Admin](https://medium.com/@gerrysabar/remove-authentication-token-python-social-auth-from-django-admin-6ea985c84730)
