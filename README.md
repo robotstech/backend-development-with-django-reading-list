@@ -15,6 +15,7 @@ A list of articles and resources that can help Django developers
 1. [OAuth 2.0 - Before You Start: Pick the Right Flow for Your Website, SPA, Mobile App, TV App, and CLI](https://dev.to/cotter/oauth-2-0-before-you-start-pick-the-right-flow-for-your-website-spa-mobile-app-tv-app-and-cli-17n4)
 
 ### Automated testing
+1. [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
 1. [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
 
 ### Continuous Integration
