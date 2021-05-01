@@ -25,6 +25,9 @@ A list of articles and resources that can help Django developers
 1. [How to Set Up a Scalable Django App with DigitalOcean Managed Databases and Spaces](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-django-app-with-digitalocean-managed-databases-and-spaces)
 1. [Deploy Django to Heroku](https://github.com/Semicolon-Tech/deploy-django-to-heroku)
  
+### SMTP integration
+1. [SendGrid Warning for Newbies](https://forum.bubble.io/t/sendgrid-warning-for-newbies/102685/59)
+
 ### Advance Django
 1. [Writing custom django-admin commands](https://django.readthedocs.io/en/stable/howto/custom-management-commands.html)
 1. [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/)
