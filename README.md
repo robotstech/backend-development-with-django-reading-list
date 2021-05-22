@@ -4,6 +4,7 @@ A list of articles and resources that can help Django developers
 ### Set up Django
 1. [Production Django Deployments on Heroku](https://testdriven.io/blog/production-django-deployments-on-heroku/)
 1. [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/)
+1. [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
 
 ### Containerization
 1. [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
