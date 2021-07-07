@@ -8,12 +8,14 @@ A list of articles and resources that can help Django developers
 
 ### Containerization
 1. [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+1. [Dockerizing Flask with Postgres, Gunicorn, and Traefik](https://testdriven.io/blog/flask-docker-traefik/)
 
 ### Authentication and Authorization
 1. [The complete django-allauth guide](https://dev.to/gajesh/the-complete-django-allauth-guide-la3)
 1. [Remove Authentication, Token, Python Social Auth from Django Admin](https://medium.com/@gerrysabar/remove-authentication-token-python-social-auth-from-django-admin-6ea985c84730)
 1. [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 1. [OAuth 2.0 - Before You Start: Pick the Right Flow for Your Website, SPA, Mobile App, TV App, and CLI](https://dev.to/cotter/oauth-2-0-before-you-start-pick-the-right-flow-for-your-website-spa-mobile-app-tv-app-and-cli-17n4)
+1. [Built-in Permission Classes in Django REST Framework](https://testdriven.io/blog/drf-permissions/)
 
 ### Automated testing
 1. [Testing Your Django App With Pytest](https://djangostars.com/blog/django-pytest-testing/)
@@ -32,6 +34,7 @@ A list of articles and resources that can help Django developers
 ### Advance Django
 1. [Writing custom django-admin commands](https://django.readthedocs.io/en/stable/howto/custom-management-commands.html)
 1. [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/)
+1. [Basic and Full-text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
 
 ### Web servers
 1. [What is Werkzeug?](https://testdriven.io/blog/what-is-werkzeug/)
