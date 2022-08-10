@@ -32,10 +32,15 @@ A list of articles and resources that can help Django developers
 ### SMTP integration
 1. [SendGrid Warning for Newbies](https://forum.bubble.io/t/sendgrid-warning-for-newbies/102685/59)
 
-### Advance Django
+### Django Admin
 1. [Writing custom django-admin commands](https://django.readthedocs.io/en/stable/howto/custom-management-commands.html)
 1. [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/)
+1. [Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.](https://github.com/originalankur/awesome-django-admin)
+
+### Search
 1. [Basic and Full-text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
+1. [Django Search](https://docs.djangoproject.com/en/3.2/topics/db/search/)
+1. [Postgres Search](https://docs.djangoproject.com/en/4.0/ref/contrib/postgres/search/)
 
 ### Web servers
 1. [What is Werkzeug?](https://testdriven.io/blog/what-is-werkzeug/)
