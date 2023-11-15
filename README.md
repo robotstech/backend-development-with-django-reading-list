@@ -50,3 +50,6 @@ A list of articles and resources that can help Django developers
 
 ### Web servers
 1. [What is Werkzeug?](https://testdriven.io/blog/what-is-werkzeug/)
+
+## Other Resources
+1. [awesome-django](https://github.com/wsvincent/awesome-django)
